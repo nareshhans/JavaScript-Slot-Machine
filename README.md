@@ -46,8 +46,11 @@ You have a balance of $100
 Choose any number of lines to bet on from 1-3: 3
 Enter the bet per line: 10
 Spinning...
+
 A | A | A
+
 B | C | D
+
 C | C | B
 You won, $60!
 Do you want to play again (y/n)? y
