@@ -118,11 +118,6 @@ const printRows = (rows) => {
 };
 
 const realWheel = transpose(reels)
-// console.log(realWheel);
-
-
-// console.log(slotMuchine);
-
 
 const getWinnings = (rows, bet, lines) => {
   let winnings = 0;
@@ -162,8 +157,6 @@ const game = () => {
 
   }
 }
-
-
 game();
 
 
